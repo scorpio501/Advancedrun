@@ -205,4 +205,4 @@ This repository serves as the official landing page for AdvancedRun. The softwar
 **Get the most recent version of AdvancedRun today!**
 
 ---
-**Last updated:** 2026-11-13 20:14:36 UTC
+**Last updated:** 2026-11-14 01:12:01 UTC
